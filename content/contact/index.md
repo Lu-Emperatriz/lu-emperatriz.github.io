@@ -1,5 +1,5 @@
 ---
-title: 'Get In Touch'
+title: 'Contacto'
 buttonText: 'Mail Me'
 ---
 
