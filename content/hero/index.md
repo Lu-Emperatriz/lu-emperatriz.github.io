@@ -1,7 +1,7 @@
 ---
-title: 'Hola mundo! Soy'
+title: Bienvenido a la web de'
 name: 'Lucero Emperatriz'
-subtitle: 'Amo encontrar respuestas!'
+subtitle: 'Data Analyst'
 buttonText: 'Contactame'
 ---
 
