@@ -3,4 +3,4 @@ title: 'Contacto'
 buttonText: 'Mail Me'
 ---
 
-My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail med any relevant job updates.
+Contáctame para.... . Si tienes algún proyecto en mente, contáctame y lo hacmeos realidad!.
