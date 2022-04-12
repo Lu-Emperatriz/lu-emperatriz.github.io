@@ -1,14 +1,17 @@
 ---
 date: '2'
-title: 'GirlScript Twitter Bot'
-cover: 'bot.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+title: 'Estrategia de Trading interactiva'
+cover: 'Miniatura-trading.png'
+github: 'https://github.com/Lu-Emperatriz/Estrategia-trading-en-Python/blob/main/3-Proj-Trading-SPN-STOC.ipynb'
+external: 'https://medium.com/geekculture/are-you-a-beginner-in-trading-build-your-first-trading-strategy-with-python-95fef3b313ab'
 tech:
   - Python
-  - tweepy
-  - Twitter API
+  - Plotly
+  - Yahoo Finance API
 showInProjects: true
 ---
 
-A Twitter Bot for [GirlScript Foundation](https://www.girlscript.tech/) that automatically retweets, favourites the tweets and follows the users who tweet with hashtag #girlscript. Checkout my tech blog on how to create it [HERE](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
+Si eres nuevo en Trading seguro te has preguntado alguna vez cuándo es que te conviene comprar, o qué indicadores debes tener en cuenta para entrar al mercado? <br>
+💰 Desarrollo DE algoritmo que determina periodos óptimos de compra/venta de acciones.
+
+Inspirado en: [randerson112358](https://randerson112358.medium.com/)

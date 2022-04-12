@@ -3,4 +3,6 @@ title: 'Contacto'
 buttonText: 'Mail Me'
 ---
 
-Contáctame para.... . Si tienes algún proyecto en mente, contáctame y lo hacmeos realidad!.
+Contáctame para conocer más sobre mis proyectos y trabajar juntos. !.
+
+Si te interesa mi trabajo contáctame para trabajar juntos.
