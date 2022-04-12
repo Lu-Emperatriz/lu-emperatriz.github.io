@@ -1,5 +1,5 @@
 ---
-title: Bienvenido a la web de'
+title: 'Bienvenido a la web de:'
 name: 'Lucero Emperatriz'
 subtitle: 'Data Analyst'
 buttonText: 'Contactame'
