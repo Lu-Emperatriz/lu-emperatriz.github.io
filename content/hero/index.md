@@ -5,7 +5,7 @@ subtitle: 'Amo encontrar respuestas!'
 buttonText: 'Contactame'
 ---
 
-Soy **Data Analyst** e Ingeniera Industrial apasionada por mejorar el desempeño de empresas con apoyo en los datos. 
+Soy **Data Analyst** apasionada por mejorar el desempeño de negocios con el uso de los datos. 
 
 Te oriento para resolver tus problemas con la metodología de **Data Analytics**. 
 
