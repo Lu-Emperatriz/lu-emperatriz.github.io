@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Lucero Sovero | Data Analyst | Website',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Lucero es Analista de Datos, apasionada de la analítica orientada a la resolución de problemas empresariales',
   siteKeywords:
     'Lucero Emperatriz, Lucero Sovero, Lu-Emperatriz, data analyst portfolio, portafolio analista de datos',
   siteUrl: 'https://chandrikadeb7.github.io/',
@@ -16,7 +16,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://www.goodreads.com/user/show/107295298-lucero',
+      url: 'https://github.com/Lu-Emperatriz',
     },
     {
       name: 'Linkedin',
@@ -41,9 +41,13 @@ module.exports = {
       name: 'Sobre mí',
       url: '/#about',
     },
+    // {
+    //   name: 'Experiencia',
+    //   url: '/#jobs',
+    // },
     {
-      name: 'Experiencia',
-      url: '/#jobs',
+      name: 'Metodología',
+      url: '/#metod',
     },
     {
       name: 'Projectos',

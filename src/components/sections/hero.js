@@ -38,10 +38,10 @@ const StyledSubtitle = styled.h3`
   font-size: 80px;
   line-height: 1.1;
   color: ${colors.slate};
-  ${media.desktop`font-size: 40px;`};
-  ${media.tablet`font-size: 30px;`};
-  ${media.phablet`font-size: 20px;`};
-  ${media.phone`font-size: 10px;`};
+  ${media.desktop`font-size: 30px;`};
+  ${media.tablet`font-size: 20px;`};
+  ${media.phablet`font-size: 15px;`};
+  ${media.phone`font-size: 5px;`};
 `;
 const StyledDescription = styled.div`
   margin-top: 25px;

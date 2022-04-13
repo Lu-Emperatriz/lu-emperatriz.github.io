@@ -5,12 +5,10 @@ subtitle: 'Data Analyst | Analista BI | Ingeniera Industrial'
 buttonText: 'Contáctame'
 ---
 
-Soy **Data Analyst** apasionada por mejorar el desempeño de negocios con el uso de los datos. 
+👉 Recopilo, transformo y organizo tus datos para impulsar la toma de decisiones informadas.  
 
-Análisis de Datos para tomar mejores decisiones comerciales.
+👉 Te oriento a resolver tus problemas e negocios con la metodología de **Data Analytics**. 
 
-Te oriento para resolver tus problemas con la metodología de **Data Analytics**. 
-
-* Actualmente trabajando como Freelancer en [Upwork](https://www.upwork.com/freelancers/~01e27b5dc34a6c3da0/) <br>
-* Como blogger en [Medium](https://medium.com/@e.lucero2000),
-* Como investigadora independiente y en proyectos en [Github](https://github.com/Lu-Emperatriz).
+* Soy Freelancer en [Upwork](https://www.upwork.com/freelancers/~01e27b5dc34a6c3da0/) <br>
+* Escribo artículos en [Medium](https://medium.com/@e.lucero2000)
+* Y desarrollo proyectos de investigación en [Github](https://github.com/Lu-Emperatriz).
