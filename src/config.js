@@ -29,7 +29,7 @@ module.exports = {
     // {
     //   name: 'Goodreads',
     //   url: 'https://www.instagram.com/chandrikadeb7',
-    },
+    // },
     // {
     //   name: 'Twitter',
     //   url: 'https://twitter.com/chandrikadeb7',
