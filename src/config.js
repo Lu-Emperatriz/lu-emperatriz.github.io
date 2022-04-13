@@ -8,32 +8,32 @@ module.exports = {
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Lucero Emperatriz',
+  location: 'Perú',
+  email: 'e.lucero2000@gmail.com',
+  github: 'https://github.com/Lu-Emperatriz',
+  // twitterHandle: '',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://www.goodreads.com/user/show/107295298-lucero',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/lucero-sovero/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+    // {
+    //   name: 'Medium',
+    //   url: 'https://medium.com/@e.lucero2000',
+    // },
+    // {
+    //   name: 'Goodreads',
+    //   url: 'https://www.instagram.com/chandrikadeb7',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/chandrikadeb7',
+    // },
   ],
 
   navLinks: [
