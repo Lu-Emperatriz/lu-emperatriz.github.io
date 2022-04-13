@@ -38,10 +38,10 @@ const StyledSubtitle = styled.h3`
   font-size: 80px;
   line-height: 1.1;
   color: ${colors.slate};
-  ${media.desktop`font-size: 70px;`};
-  ${media.tablet`font-size: 60px;`};
-  ${media.phablet`font-size: 50px;`};
-  ${media.phone`font-size: 40px;`};
+  ${media.desktop`font-size: 40px;`};
+  ${media.tablet`font-size: 30px;`};
+  ${media.phablet`font-size: 20px;`};
+  ${media.phone`font-size: 10px;`};
 `;
 const StyledDescription = styled.div`
   margin-top: 25px;
@@ -83,7 +83,7 @@ const Hero = ({ data }) => {
   );
   const five = () => (
     <div style={{ transitionDelay: '500ms' }}>
-      <StyledEmailLink href={`mailto:${email}`}>Contact Me</StyledEmailLink>
+      <StyledEmailLink href={`mailto:${email}`}>Contáctame</StyledEmailLink>
     </div>
   );
 

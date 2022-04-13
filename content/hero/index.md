@@ -1,11 +1,13 @@
 ---
-title: 'Bienvenido a la web de:'
-name: 'Lucero Emperatriz'
-subtitle: 'Data Analyst'
-buttonText: 'Contactame'
+title: 'Análisis de Datos para tomar mejores decisiones comerciales.'
+name: 'Hola! Soy Lucero'
+subtitle: 'Data Analyst | Analista BI | Ingeniera Industrial'
+buttonText: 'Contáctame'
 ---
 
 Soy **Data Analyst** apasionada por mejorar el desempeño de negocios con el uso de los datos. 
+
+Análisis de Datos para tomar mejores decisiones comerciales.
 
 Te oriento para resolver tus problemas con la metodología de **Data Analytics**. 
 

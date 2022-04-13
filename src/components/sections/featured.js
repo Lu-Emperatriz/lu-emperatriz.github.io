@@ -227,7 +227,7 @@ const Featured = ({ data }) => {
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <StyledContent>
-                  <StyledLabel>Featured Project</StyledLabel>
+                  <StyledLabel>Proyecto Destacado</StyledLabel>
                   <StyledProjectName>
                     {external ? (
                       <a

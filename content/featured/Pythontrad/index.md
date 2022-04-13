@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Estrategia de Trading interactiva'
 cover: 'Miniatura-trading.png'
 github: 'https://github.com/Lu-Emperatriz/Estrategia-trading-en-Python/blob/main/3-Proj-Trading-SPN-STOC.ipynb'
@@ -11,7 +11,8 @@ tech:
 showInProjects: true
 ---
 
-Si eres nuevo en Trading seguro te has preguntado alguna vez cuándo es que te conviene comprar, o qué indicadores debes tener en cuenta para entrar al mercado? <br>
-💰 Desarrollo DE algoritmo que determina periodos óptimos de compra/venta de acciones.
+Si eres nuevo en Trading seguro te has preguntado... **¿cuándo debo conviene comprar una acción?**, o **¿cuándo debo entrar al mercado?**
+
+💰 Desarrollo de algoritmo que determina periodos óptimos de compra/venta de acciones.
 
 Inspirado en: [randerson112358](https://randerson112358.medium.com/)

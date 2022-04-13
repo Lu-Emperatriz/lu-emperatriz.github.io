@@ -10,6 +10,12 @@ skills:
   - R Markdown
 ---
 
-Mi interés en la analítica comenzó cuando era pequeña, solía preguntarme por el origen de las cosas. De ahí nació mi interés por la investigación y descubrí que los datos son la mejor respuesta a nuestras preguntas.
+<p style="text-align:center; color:#64ffda;font-family: SF Mono,Fira Code,Fira Mono,Roboto Mono,Lucida Console,Monaco,monospace; font-size:15px"> "Mi interés en la analítica comenzó cuando era pequeña, solía preguntarme por el origen de las cosas. De ahí nació mi interés por la investigación y descubrí en los datos se encuentra la mejor respuesta a nuestros problemas".</P>
 
-Soy especialista en Gestión de Negocios y Planeamiento Estratégico, me gradué en el  [Décimo Superior](link here) de mi carrera.
+👩‍🎓 Me gradué como **Ingeniera Industrial** en 2021, con una especialidad de **Gestión de Negocios y Planeamiento**.
+
+📊 Actualmente, me estoy formando como **Analista de Datos**.
+
+🔨 Las tecnologías que domino son:
+
+

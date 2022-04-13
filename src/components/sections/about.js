@@ -69,7 +69,7 @@ const StyledAvatar = styled(Img)`
 `;
 const StyledAvatarLink = styled.a`
   ${mixins.boxShadow};
-  width: 100%;
+  width: 80%;
   position: relative;
   border-radius: ${theme.borderRadius};
   background-color: ${colors.lightestSlate};

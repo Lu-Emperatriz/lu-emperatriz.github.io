@@ -1,8 +1,8 @@
 ---
-title: 'Contacto'
-buttonText: 'Mail Me'
+title: 'Contactáme'
+buttonText: 'Conversemos'
 ---
 
-Contáctame para conocer más sobre mis proyectos y trabajar juntos!
+Mi bandeja de correo esta abierta para ti!
 
-Si te interesa mi trabajo contáctame para trabajar juntos.
+Siéntete libre de contactarme para trabajar juntos o si tienes alguna propuesta de trabajo.

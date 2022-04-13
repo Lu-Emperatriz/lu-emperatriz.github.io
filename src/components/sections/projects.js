@@ -146,9 +146,9 @@ const Projects = ({ data }) => {
 
   return (
     <StyledContainer>
-      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
+      <StyledTitle ref={revealTitle}>Otros Proyectos</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        View Complete List of Projects/Codes
+        Descubre más Proyectos de Lucero
       </StyledArchiveLink>
 
       <StyledGrid>
