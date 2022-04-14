@@ -39,6 +39,7 @@ const SkipToContent = styled.a`
     height: auto;
     overflow: auto;
     z-index: 99;
+    text-shadow: 0.2px 0.2px #C547EC;
   }
 `;
 const StyledContent = styled.div`

@@ -11,8 +11,7 @@ tech:
 showInProjects: true
 ---
 
-Si eres nuevo en Trading seguro te has preguntado... **¿cuándo debo conviene comprar una acción?**, o **¿cuándo debo entrar al mercado?**
+Si eres nuevo en Trading seguro te has preguntado... **¿cuándo debo conviene comprar una acción?**...
 
-💰 Desarrollo de algoritmo que determina periodos óptimos de compra/venta de acciones.
+💰 Desarrollo de algoritmo que determina periodos óptimos de compra de acciones.
 
-Inspirado en: [randerson112358](https://randerson112358.medium.com/)
