@@ -45,12 +45,9 @@ module.exports = {
     //   name: 'Experiencia',
     //   url: '/#jobs',
     // },
+
     {
-      name: 'Metodología',
-      url: '/#metod',
-    },
-    {
-      name: 'Projectos',
+      name: 'Proyectos',
       url: '/#projects',
     },
     {
