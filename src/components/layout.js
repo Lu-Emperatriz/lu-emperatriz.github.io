@@ -29,7 +29,7 @@ const SkipToContent = styled.a`
     padding: 18px 23px;
     font-size: ${fontSizes.sm};
     font-family: ${fonts.SFMono};
-    line-height: 1;
+    line-height: 1.3;
     text-decoration: none;
     cursor: pointer;
     transition: ${theme.transition};

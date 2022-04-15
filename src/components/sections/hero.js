@@ -27,7 +27,7 @@ const StyledOverline = styled.h1`
 `;
 const StyledTitle = styled.h2`
   font-size: 80px;
-  line-height: 1.1;
+  line-height: 1.3;
   margin: 0;
   ${media.desktop`font-size: 70px;`};
   ${media.tablet`font-size: 60px;`};

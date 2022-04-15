@@ -15,7 +15,7 @@ const StyledTitle = styled.h1`
   color: ${colors.green};
   font-family: ${fonts.SFMono};
   font-size: 12vw;
-  line-height: 1;
+  line-height: 1.1;
   ${media.bigDesktop`font-size: 200px;`}
   ${media.phablet`font-size: 120px;`};
 `;
