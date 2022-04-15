@@ -43,7 +43,7 @@ const NavLinks = styled.nav`
   flex-direction: column;
   text-align: center;
   color: ${colors.lightestSlate};
-  text-shadow: 0.2px 0.2px #C547EC;
+  text-shadow: 0.2px 0.2px #f0d2fa;
 `;
 const NavList = styled.ol`
   padding: 0;

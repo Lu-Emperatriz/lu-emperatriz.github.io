@@ -27,10 +27,10 @@ const GlobalStyle = createGlobalStyle`
     min-height: 100%;
     overflow-x: hidden;
     -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke: 0.1px white;
     background-color: ${colors.navy};
     color: ${colors.slate};
-    line-height: 1.3;
+    line-height: 1.1;
     font-family: ${fonts.Calibre};
     font-size: ${fontSizes.xl};
     ${media.phablet`font-size: ${fontSizes.lg};`}
@@ -67,7 +67,7 @@ const GlobalStyle = createGlobalStyle`
   h4,
   h5,
   h6 {
-    font-weight: 600;
+    font-weight: 500;
     color: ${colors.lightestSlate};
     margin: 0 0 10px 0;
   }
@@ -75,7 +75,7 @@ const GlobalStyle = createGlobalStyle`
   h1 {
     &.big-title {
       font-size: 80px;
-      line-height: 1.1;
+      line-height: 1;
       margin: 0;
       ${media.desktop`font-size: 70px;`};
       ${media.tablet`font-size: 60px;`};
@@ -85,7 +85,7 @@ const GlobalStyle = createGlobalStyle`
 
     &.medium-title {
       font-size: 60px;
-      line-height: 1.1;
+      line-height: 1;
       margin: 0;
       ${media.desktop`font-size: 50px;`};
       ${media.tablet`font-size: 40px;`};

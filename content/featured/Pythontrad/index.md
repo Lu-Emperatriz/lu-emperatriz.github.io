@@ -11,7 +11,7 @@ tech:
 showInProjects: true
 ---
 
-Si eres nuevo en Trading seguro te has preguntado... **¿cuándo debo conviene comprar una acción?**...
+Si eres nuevo en Trading seguro te has preguntado... <u>¿cuándo debo conviene comprar una acción?</u>...
 
 💰 Desarrollo de algoritmo que determina periodos óptimos de compra de acciones.
 
