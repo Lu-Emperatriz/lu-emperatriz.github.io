@@ -30,7 +30,7 @@ const GlobalStyle = createGlobalStyle`
     -webkit-text-stroke: 0.1px white;
     background-color: ${colors.navy};
     color: ${colors.slate};
-    line-height: 1.3;
+    line-height: 1.5;
     font-family: ${fonts.Calibre};
     font-size: ${fontSizes.xl};
     ${media.phablet`font-size: ${fontSizes.lg};`}
