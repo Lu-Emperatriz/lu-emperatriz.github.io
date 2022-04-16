@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-archive-js",
+    "path": "/archive/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2021-12-10","title":"Mi 2021 en libros","tech":["Tableau"],"github":"","external":"https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/Mybookshelf/DASH1","company":""},"html":"<p>📚 Visualización de mis lecturas del año.</p>"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["3115057458"]}
