@@ -106,8 +106,12 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-          "Un analista de datos es un explorador, un detective y un artista, todo en uno"
+            Designed and Built by Brittany Chiang
+          
           </div>
+
+          
+
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

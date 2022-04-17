@@ -33,6 +33,7 @@ const GlobalStyle = createGlobalStyle`
     line-height: 1.5;
     font-family: ${fonts.Calibre};
     font-size: ${fontSizes.xl};
+    font-weight: 350;
     ${media.phablet`font-size: ${fontSizes.lg};`}
 
     &.hidden {
@@ -75,7 +76,7 @@ const GlobalStyle = createGlobalStyle`
   h1 {
     &.big-title {
       font-size: 80px;
-      line-height: 1;
+      line-height: 1.3;
       margin: 0;
       ${media.desktop`font-size: 70px;`};
       ${media.tablet`font-size: 60px;`};
@@ -85,7 +86,7 @@ const GlobalStyle = createGlobalStyle`
 
     &.medium-title {
       font-size: 60px;
-      line-height: 1;
+      line-height: 1.3;
       margin: 0;
       ${media.desktop`font-size: 50px;`};
       ${media.tablet`font-size: 40px;`};

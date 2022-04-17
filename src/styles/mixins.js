@@ -78,7 +78,7 @@ const mixins = {
     padding: 0.75rem 1rem;
     font-size: ${fontSizes.smish};
     font-family: ${fonts.SFMono};
-    line-height: 1;
+    line-height: 1.2;
     text-decoration: none;
     cursor: pointer;
     transition: ${theme.transition};
@@ -100,7 +100,7 @@ const mixins = {
     padding: 1.25rem 1.75rem;
     font-size: ${fontSizes.sm};
     font-family: ${fonts.SFMono};
-    line-height: 1;
+    line-height: 1.2;
     text-decoration: none;
     cursor: pointer;
     transition: ${theme.transition};

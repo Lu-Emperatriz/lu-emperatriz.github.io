@@ -36,7 +36,7 @@ const StyledTitle = styled.h2`
 `;
 const StyledSubtitle = styled.h3`
   font-size: 40px;
-  line-height: 1.1;
+  line-height: 1.3;
   color: ${colors.slate};
   ${media.desktop`font-size: 30px;`};
   ${media.tablet`font-size: 20px;`};
