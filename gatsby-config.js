@@ -5,7 +5,7 @@ module.exports = {
     title: config.siteTitle,
     siteUrl: config.siteUrl,
     description: config.siteDescription,
-    image: '/images/logo.png',
+    image: '/images/og.png',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
