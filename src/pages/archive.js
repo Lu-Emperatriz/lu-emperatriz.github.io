@@ -110,7 +110,7 @@ const ArchivePage = ({ location, data }) => {
     <Layout location={location}>
       <Helmet>
         <title>Archivo | Lucero</title>
-        <link rel="canonical" href="https://chandrikadeb7.github.io/archive" />
+        <link rel="canonical" href="https://lu-emperatriz.github.io/archive" />
       </Helmet>
 
       <StyledMainContainer>
