@@ -16,7 +16,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      : 'https://github.com/Lu-Emperatriz',
+      url: 'https://github.com/Lu-Emperatriz',
     },
     {
       name: 'Linkedin',
