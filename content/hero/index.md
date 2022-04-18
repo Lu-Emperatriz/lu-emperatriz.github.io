@@ -5,7 +5,7 @@ subtitle: 'Data Analyst | Analista BI | Ingeniera Industrial'
 buttonText: 'Contáctame'
 ---
 
-👉 Recopilo, transformo y organizo tus datos para impulsar la toma de decisiones informadas.  
+👉 Recopilo, transformo y analizo tus datos para impulsar la toma de decisiones informadas.  
 
 👉 Te oriento a resolver tus problemas e negocios con la metodología de **Data Analytics**. 
 
