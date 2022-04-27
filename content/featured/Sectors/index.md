@@ -2,8 +2,8 @@
 date: '2'
 title: 'Desempeño de la Bolsa de Valores de Lima'
 cover: 'Miniatura BVL.png'
-github: 'https://github.com/Lu-Emperatriz/Performace-Bolsa-Valores-Lima/blob/main/2-Proj-sectors-markdown-SPN.md'
-external: 'https://public.tableau.com/app/profile/lucero.emperatriz.sovero/viz/DesempeoFinancierodelaBolsadeValoresdeLima/Dashboard1?utm_source=tableau+public#1'
+github: 'https://bit.ly/3kk2ARe '
+external: 'https://tabsoft.co/38C1f5B'
 tech:
   - SQL
   - Tableau
