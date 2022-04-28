@@ -297,7 +297,7 @@ class Nav extends Component {
                       href="/resume2.pdf"
                       target="_blank"
                       rel="nofollow noopener noreferrer">
-                      CV/Resume
+                      Resume
                     </StyledResumeButton>
                   </div>
                 </CSSTransition>
